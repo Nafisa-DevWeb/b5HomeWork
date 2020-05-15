@@ -1,0 +1,10 @@
+public class PersonInfo {
+	public static void main(String[] args) {
+	String studentName = "Jose";
+	int studentId = 12345;
+
+	System.out.println("Welcome "+studentName+" to Techtorial! "+" Your number Id is "+studentId);
+
+
+	}
+}
